@@ -166,7 +166,6 @@ An IoT-based smart door lock system with NFC-enabled access control, real-time a
 <img src="https://raw.githubusercontent.com/Astral420/Astral420/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> Requires a scheduled GitHub Action (e.g. `Platane/snk`) on a repo named after your username to generate this file.
 
 ---
 
@@ -174,7 +173,7 @@ An IoT-based smart door lock system with NFC-enabled access control, real-time a
 
 ```yaml
 Current Focus:
-  Learning: ["Python, OpenCV]
+  Learning: ["Python", "OpenCV"]
   Building: ["Scalable full-stack applications", "Backend systems with Node.js & Express"]
   Exploring: ["DevOps automation", "Agentic developer tooling", "Computer Vision"]
   Open To: ["Full Stack Engineering roles", "Backend Engineering roles", "Collaborative OSS projects"]
