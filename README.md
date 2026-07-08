@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Roger%20Fredrick%20Dy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI-Assisted%20Development&descAlignY=55&descSize=18)
+![Header](./assets/header-banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Backend+%26+Cloud+Enthusiast;Building+Scalable+Systems;Always+Exploring+AI-Assisted+Workflows)](https://git.io/typing-svg)
 
