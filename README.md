@@ -196,6 +196,6 @@ Current Focus:
 
 *"Building scalable systems, one commit at a time."*
 
-![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](./assets/footer-banner.svg)
 
 </div>
