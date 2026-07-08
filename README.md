@@ -135,8 +135,6 @@ An IoT-based smart door lock system with NFC-enabled access control, real-time a
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Astral420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astral420&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-</div>
 
 
 ---
