@@ -147,7 +147,7 @@ An IoT-based smart door lock system with NFC-enabled access control, real-time a
 ### 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Astral420&theme=algolia&no-frame=true&margin-w=10&row=1" />
+<img src="https://trophy.benkou.dev/?username=Astral420&theme=alduin&no-frame=true&margin-w=10&row=1" />
 </div>
 
 ---
