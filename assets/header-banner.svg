@@ -1,0 +1,30 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#4338CA"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="250" fill="url(#bgGrad)"/>
+
+  <path d="M0,190 C200,150 400,230 600,190 C800,150 1000,230 1200,190 L1200,250 L0,250 Z" fill="url(#waveGrad)" opacity="0.35"/>
+  <path d="M0,210 C200,175 400,245 600,210 C800,175 1000,245 1200,210 L1200,250 L0,250 Z" fill="url(#waveGrad)" opacity="0.6"/>
+  <path d="M0,230 C200,205 400,250 600,230 C800,205 1000,250 1200,230 L1200,250 L0,250 Z" fill="url(#waveGrad)"/>
+
+  <text x="600" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="url(#textGrad)" text-anchor="middle">
+    Roger Fredrick Dy
+  </text>
+  <text x="600" y="150" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">
+    Full Stack Software Engineer &#8226; AI-Assisted Development
+  </text>
+</svg>
