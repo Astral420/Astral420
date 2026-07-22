@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://astraldev-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/roger-dy"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dyrogerfredrick@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Astral420"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
