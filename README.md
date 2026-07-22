@@ -28,7 +28,7 @@
 
 ### 👋 About Me
 
-Aspiring Software Engineer with hands-on experience across full-stack development, backend systems, databases, and cloud infrastructure. I care about building scalable, production-ready software and staying close to the tools shaping how software gets built today — from cloud-native architecture to AI-assisted development workflows like Claude Code and Codex.
+Aspiring Professional Software Engineer with hands-on experience across full-stack development, backend systems, databases, and cloud infrastructure. I care about building scalable, production-ready software and staying close to the tools shaping how software gets built today — from cloud-native architecture to AI-assisted development workflows like Claude Code and Codex.
 
 Strong foundation in programming fundamentals, fast at picking up new stacks, and driven by clean engineering practices over shortcuts.
 
