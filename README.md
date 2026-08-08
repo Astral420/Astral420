@@ -72,12 +72,12 @@ A mobile-based job marketplace platform featuring a swipe-based matching system 
 
 | | |
 |---|---|
-| **Stack** | React Native (Expo), MongoDB, PostgreSQL, Redis, WebSocket, Docker, AWS EC2, Cloudflare R2 |
+| **Stack** | React Native (Expo), MongoDB, PostgreSQL, Redis, Laravel, Docker, AWS EC2, Cloudflare R2 |
 | **Scale** | Hybrid database architecture — MongoDB for profile-based data, PostgreSQL for transactional operations |
 | **Performance** | Redis-based caching and queue management for responsive swipe-matching at scale |
 | **Security** | Structured backend access patterns for applicant/company data separation |
 | **Impact** | Real-time WebSocket messaging and improved application scalability |
-| **Repository** | Private (SOCIA company project) |
+| **Repository** | Private (Internship Portfolio Project @ SOCIA) |
 
 </details>
 
@@ -89,12 +89,12 @@ A service marketplace concept connecting customers and service providers, design
 
 | | |
 |---|---|
-| **Stack** | Express.js, PostgreSQL, Docker |
+| **Stack** | Express.js, PostgreSQL, Docker, React |
 | **Scale** | Core marketplace functionality — server-side logic and database structures |
 | **Performance** | Docker-based development environment for consistent local/staging parity |
 | **Security** | Server-side validation and structured data access |
 | **Impact** | Hands-on Agile/Scrum delivery experience across sprint-based development cycles |
-| **Repository** | Private (Team project) |
+| **Repository** | Private (Internship Evaluation Project @ SOCIA) |
 
 </details>
 
@@ -102,7 +102,7 @@ A service marketplace concept connecting customers and service providers, design
 <summary><b>KnockSense — IoT Smart Door Lock System</b></summary>
 <br>
 
-An IoT-based smart door lock system with NFC-enabled access control, real-time attendance monitoring, and meeting scheduling — built as a thesis project.
+An IoT-based smart door lock system with RFID-enabled access control, real-time attendance monitoring, and meeting scheduling — built as a thesis project.
 
 | | |
 |---|---|
@@ -123,7 +123,6 @@ An IoT-based smart door lock system with NFC-enabled access control, real-time a
 
 | Recognition | Details |
 |---|---|
-| Academic Honors | Graduated with honors — Senior High School (STEM), Academia De San Gabriel Archangel, 2021 |
 | Full Stack Internship | Completed a hands-on internship at SOCIA, contributing to production-level mobile and web applications |
 | Thesis Project Lead | Led the research, design, and development of KnockSense, an IoT-based smart access control system |
 
