@@ -65,6 +65,23 @@ Strong foundation in programming fundamentals, fast at picking up new stacks, an
 ### 🚀 Featured Projects
 
 <details>
+<summary><b>CardFlow</b></summary>
+<br>
+
+A pipeline that automates crops, rotates, deduplicates raw trading card scans for easy input to Card Dealer Pro/TCG Automate.
+
+| | |
+|---|---|
+| **Stack** | Python, FastAPI, React, TailwindCSS, OpenCV, PostgreSQL, Celery, Redis, SQLAlchemy, Oracle Cloud, Vercel, Cloudflare |
+| **Scale** | Full-stack image-processing system designed to handle multi-user uploads, batch processing, image metadata, and large collections of raw trading-card scans |
+| **Performance** | Asynchronous batch processing using Celery and Redis, with OpenCV workers handling CPU-intensive cropping, rotation, and deduplication without blocking API requests |
+| **Security** | Authenticated API access, validated file uploads, controlled access to stored scans, and secure handling of image-processing jobs |
+| **Impact** | Automates repetitive scan preparation by cropping, rotating, and deduplicating raw trading-card images, reducing the manual effort required to prepare large card collections for downstream workflows |
+| **Repository** | [https://github.com/Astral420/CardFlow](https://github.com/Astral420/CardFlow) |
+
+</details>
+
+<details>
 <summary><b>JobSwipe — Swipe-Based Job Marketplace</b></summary>
 <br>
 
@@ -109,7 +126,7 @@ An IoT-based smart door lock system with RFID-enabled access control, real-time 
 | **Stack** | Arduino, Firebase, RFID, IoT hardware integration |
 | **Scale** | Full system architecture — hardware, real-time database, and scheduled backend tasks |
 | **Performance** | Real-time attendance monitoring and access logging |
-| **Security** | NFC-enabled access control for restricted entry |
+| **Security** | RFID-enabled access control for restricted entry |
 | **Impact** | Reduced faculty interruptions through automated scheduling and access management |
 | **Repository** | [github.com/Astral420/knocksense](https://github.com/Astral420/knocksense) |
 
