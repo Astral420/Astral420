@@ -156,22 +156,6 @@ An IoT-based smart door lock system with RFID-enabled access control, real-time 
 
 ---
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://trophy.benkou.dev/?username=Astral420&theme=alduin&no-frame=true&margin-w=10&row=1" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astral420&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
